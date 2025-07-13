@@ -1,6 +1,11 @@
+![Homepage screenshot](/img/screenshot.png)
+
 Image Search App – Powered by Pexels
+
 Overview
+
 The Image Search App is a web application that allows users to search for high-quality, royalty-free images using the Pexels API. Built with modern web technologies, this project showcases my skills in front-end development, API integration, and responsive design. It was developed as part of my transition to a web developer career, demonstrating my ability to create functional and user-friendly applications.
+
 Features
 
 Search Functionality: Users can enter a query to search for images, with results fetched dynamically from the Pexels API.
@@ -50,8 +55,6 @@ style.css: Custom styles for layout, typography, and responsive design.
 app.js: JavaScript logic for API calls, DOM manipulation, and event handling.
 img/background-wallpaper.jpg: Background image for the app.
 
-Screenshots
-Coming soon: Add screenshots of the search interface and image overlay.
 Future Improvements
 
 Add error handling for invalid queries or API failures.
